@@ -1,5 +1,6 @@
 # hello-world
 
+My first GitHub repository
 你好，我正在学习Python、Git 和 Github。
 
 ## 我的目标
